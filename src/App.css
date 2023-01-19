@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: rgb(250,249,246);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+}
+
